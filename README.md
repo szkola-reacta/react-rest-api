@@ -1,3 +1,8 @@
+# Set env variables
+
+* REACT_APP_DB_ID - your database id
+* REACT_APP_API_KEY - your [api token](https://airtable.com/account)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
